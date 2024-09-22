@@ -1,0 +1,37 @@
+<!DOCTYPE: html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>aula PWEB</title>
+</head>
+<body>
+<h1>TÍTULO PRINCIPAL DA PAGINA</h1>
+<h2>Subtítulo Secundario</h2>
+<h3>Subtítulo Terciário</h3>
+<p>Este é um paragrafo que contém texto explicativo sobre o conteúdo da página.</p>
+<p>Os paragrafos são utilizados para separar blocos de texto e facilitar a leitura</p>
+<br/><h2>LISTA NÃO ORDENADA</h2>
+<ul>
+<li>Item 1 na lista não ordenada</li>
+<li>Item 2 na lista não ordenada</li>
+<li>Item 3 na lista não ordenada</li>
+</ul>
+<br/><h2>LISTA ORDENADA</h2>
+<ol>
+<li>Primeiro item na lista ordenada</li>
+<li>Segundo item na lista ordenada</li>
+<li>Terceiro item na lista ordenada</li>
+</ol>
+<h2>Lista de descrição</h2>
+<p>HTML<br/>
+      Linguagem de marcação usada para estruturar o conteúdo da web</p>
+<p>CSS<br/>
+      Linguagem de estilo usada para definir a aparencia do conteúdo</p>
+
+<h2>Links de navegação</h2>
+<a href="https://www.google.com">Visite o google</a><br/>
+<br/><a href="/sobre.html">Sobre Nós</a><br/>
+<br/><a href="mailto:contato@exemplo.com">Envie-nos um e-mail</a><br/>
+<br/><a href="#seção1">Ir para seção 1</a>
+</body>
+</html>
