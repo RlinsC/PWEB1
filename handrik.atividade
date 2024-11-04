@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head><title>titulo do site</title></head>
+<body>
+<h1 align="center">titulo centralizado</h1>
+<h3 align="center">subtitulo centralizado</h3>
+<p>uma frase com quebra<br>no meio dela</p>
+<p><b><font size="2">uma paragrafo comum com fonte tamanho 2 e em negrito</b></font></p>
+<p align="center"><i>Um paragrafo centralizado com fonte normal e em italico
+</i></p>
+<p align="right"><u><font color="red">Um paragrafo alinhado a direita, com fonte sublinhada e vermelha</font></u></p>
+<img src="https://i0.wp.com/jornalgazetanews.com.br/wp-content/uploads/2024/05/Naruto-e-coroado-como-a-serie-mais-popular-do-mundo.jpg" hight="200px" width="300px">
+<br>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*qKksSvflsm_XHdI7.jpg" hight="250px" width="500px" bord="2px">
+<br>
+<ul>
+    <li><input type="checkbox">primeiro item da lista não ordenada</li>
+    <li><input type="checkbox">segundo item da lista não ordenada</li>
+    <li><input type="checkbox">terceiiro item da lista não ordenada</li>
+</ul>
+<ol>
+<li>I</li>
+<li>VI</li>
+<li>X</li>
+</ol>
+<style>
+    .lista-sem-marcador {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+</style>
+<ul class="lista-sem-marcador">
+<li>lista sem marcador</li>
+<li>lista sem marcador 2</li>
+<li>lista sem marcador 3</li>
+</ul>
+</body>
